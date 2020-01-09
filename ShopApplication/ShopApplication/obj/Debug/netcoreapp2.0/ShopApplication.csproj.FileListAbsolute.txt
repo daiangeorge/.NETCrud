@@ -1,0 +1,11 @@
+c:\users\george\source\repos\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.deps.json
+c:\users\george\source\repos\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.runtimeconfig.json
+c:\users\george\source\repos\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.runtimeconfig.dev.json
+c:\users\george\source\repos\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.dll
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.csprojAssemblyReference.cache
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.csproj.CoreCompileInputs.cache
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.AssemblyInfoInputs.cache
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.AssemblyInfo.cs
+c:\users\george\source\repos\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.pdb
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.dll
+c:\users\george\source\repos\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.pdb
